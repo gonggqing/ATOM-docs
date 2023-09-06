@@ -1,7 +1,7 @@
 Welcome to ATOM's documentation!
 ===================================
 
-**ATOM** (/lu'make/) is a Javascript/Typescript APP for automatic benchmarking!
+**ATOM** (/*Automatic Testing Operation Module*/) is a Javascript/Typescript APP for automatic benchmarking!
 
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
